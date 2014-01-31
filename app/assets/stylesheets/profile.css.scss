@@ -1,0 +1,24 @@
+// Place all the styles related to the profile controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+/* @font-face kit by Fonts2u (http://www.fonts2u.com) */ 
+@font-face {
+	font-family:"SD Helveticons Demo";
+	src:url("SD_Helveticons_Demo.eot?") format("eot"),url("SD_Helveticons_Demo.woff") format("woff"),url("SD_Helveticons_Demo.ttf") format("truetype"),url("SD_Helveticons_Demo.svg#SDHelveticonsDemo") format("svg");font-weight:normal;font-style:normal;
+}
+
+body {
+	background-image: url("low_contrast_linen.png");
+	text-align: center;
+	font-family: "SD Helveticons Demo"
+}
+
+h1 {
+	font-size: 82px;
+}
+
+p {
+	font-size: 22px;
+	width: 300px;
+	margin: auto;
+}
